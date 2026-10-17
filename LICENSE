@@ -1,0 +1,33 @@
+MIT License with Mandatory Attribution Clause
+
+Copyright (c) 2026 Useful Finds Daily (https://www.useful-finds-daily.com/)
+
+Permission is hereby granted, free of charge, to any person or organization 
+obtaining a copy of this software and associated documentation files 
+(the "Software"), to deal in the Software without restriction, including 
+without limitation the rights to use, copy, modify, merge, publish, 
+distribute, sublicense, host on public or private websites, embed in web pages, 
+and/or sell copies of the Software, subject to the following MANDATORY CONDITIONS:
+
+1. MANDATORY BACKLINK & ATTRIBUTION RETENTION:
+   Any deployment, self-hosting, mirroring, framing, embedding (including <iframe>), 
+   or redistribution of this Software on any website, server, repository, or 
+   platform MUST retain the original author attribution and a direct, clickable, 
+   unobfuscated, and visible hyperlink pointing to:
+   https://www.useful-finds-daily.com/
+
+2. PROHIBITION OF REMOVAL OR OBFUSCATION:
+   You may NOT remove, alter, hide (via CSS, display:none, visibility:hidden, opacity:0, 
+   off-screen positioning, or similar techniques), or replace the attribution links 
+   pointing to https://www.useful-finds-daily.com/. 
+   Removal, alteration, or concealment of this link automatically terminates your 
+   license to host, distribute, or run this Software.
+
+3. STANDARD DISCLAIMER:
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
